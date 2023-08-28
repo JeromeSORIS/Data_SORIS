@@ -1,2 +1,7 @@
 # Data_SORIS
-Situation NOTAM, NAVEAREA et lancements pour chaque journée (YYYY-MM-DD)
+Collection of :
+- NOTAM
+- NAVAREA
+- LAUNCHES
+
+Data available in the 'geojson' file (daily update).
