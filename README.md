@@ -4,4 +4,5 @@ Collection of :
 - NAVAREA
 - LAUNCHES
 
-Data available in the 'geojson' file (daily update).
+Data available in the 'geojson' and the 'kml' file (daily update).
+Note: Best interface with kml and Google Earth.
