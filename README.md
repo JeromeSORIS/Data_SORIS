@@ -1,5 +1,5 @@
 # Data_SORIS
-OSINT collection of :
+Automatic OSINT collection of :
 - NOTAM (air)
 - NAVIGATION WARNING (sea)
 - SPACE LAUNCHES
