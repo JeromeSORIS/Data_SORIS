@@ -1,4 +1,7 @@
 # Data_SORIS
+
+![alt text](https://github.com/JeromeSORIS/Data_SORIS/blob/main/Sample_CHINA_2023-09-26.png)
+
 ## Purpose
 Gathering open source data in relation with ground space activities: open source data acquisition, data standardization, data filtering and data visualization.
 
@@ -22,7 +25,6 @@ Note: Best interface with kml and Google Earth.
   - Blue rocket symbol = Past launch
   - Red rocket symbol = Future launch
 
-![alt text](https://github.com/JeromeSORIS/Data_SORIS/blob/main/Sample_CHINA_2023-09-26.png)
 
 ## Key words
 Space data, Space launch, Navarea,  NOTAM, OSINT.
