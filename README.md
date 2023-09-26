@@ -3,9 +3,9 @@
 Gathering open source data in relation with ground space activities: open source data acquisition, data standardization, data filtering and data visualization.
 
 Automatic OSINT collection of :
-- NOTAM (air)
-- NAVIGATION WARNING (sea)
-- SPACE LAUNCHES
+- NOTAM (air) : active and future NOTAM
+- NAVIGATION WARNING (sea) : active and future warning
+- SPACE LAUNCHES : recent and future launches
 
 Data available in the 'geojson' and the 'kml' file (daily update).
 
@@ -23,7 +23,7 @@ Note: Best interface with kml and Google Earth.
   - Red rocket symbol = Future launch
 
 ## Key words
-Space data, NOTAM, Space launch, Navarea, OSINT.
+Space data, Space launch, Navarea,  NOTAM, OSINT.
 
 # See also
 For other automatic space data treatments : http://jeromed.soris.free.fr/html/autoreport.php
