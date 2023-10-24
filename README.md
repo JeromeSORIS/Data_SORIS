@@ -5,12 +5,14 @@
 ## Purpose
 Gathering open source data in relation with ground space activities: open source data acquisition, data standardization, data filtering and data visualization.
 
-Automatic OSINT collection of :
+The kml file reprensents the CURRENT SITUATION of ACTIVE ALERTS and SPACE LAUNCHES.
+
+More preciselly, SORIS is an automatic OSINT collection of :
 - NOTAM (air) : active and future NOTAM
 - NAVIGATION WARNING (sea) : active and future warning
 - SPACE LAUNCHES : recent and future launches
 
-Data available in the 'geojson' and the 'kml' file (daily update).
+Data from SORIS are available in the 'geojson' and the 'kml' file (daily update).
 
 Note: Best interface with kml and Google Earth.
 
