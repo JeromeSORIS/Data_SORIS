@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document id="1">
+        <name>ACTIVITES SOL - CHN</name>
+        <atom:author>jeromed.soris [-at-] proton.me</atom:author>
+        <description>&lt;a href=&quot;http://jeromed.soris.free.fr/html/autoreport.php&quot;&gt;Autoreport&lt;/a&gt;</description>
+        <Folder id="2">
+            <name>CZ 3B</name>
+            <Folder id="3">
+                <Style id="10">
+                    <LineStyle id="11">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                        <width>4</width>
+                    </LineStyle>
+                    <PolyStyle id="12">
+                        <colorMode>normal</colorMode>
+                        <fill>0</fill>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <Style id="17">
+                    <LineStyle id="18">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                        <width>4</width>
+                    </LineStyle>
+                    <PolyStyle id="19">
+                        <colorMode>normal</colorMode>
+                        <fill>0</fill>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <Style id="24">
+                    <LineStyle id="25">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                        <width>4</width>
+                    </LineStyle>
+                    <PolyStyle id="26">
+                        <colorMode>normal</colorMode>
+                        <fill>0</fill>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <Style id="31">
+                    <LineStyle id="32">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                        <width>4</width>
+                    </LineStyle>
+                    <PolyStyle id="33">
+                        <colorMode>normal</colorMode>
+                        <fill>0</fill>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <Style id="36">
+                    <LineStyle id="37">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                    </LineStyle>
+                </Style>
+                <Style id="40">
+                    <LineStyle id="41">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                    </LineStyle>
+                </Style>
+                <Style id="44">
+                    <LineStyle id="45">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                    </LineStyle>
+                </Style>
+                <Style id="48">
+                    <LineStyle id="49">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                    </LineStyle>
+                </Style>
+                <name>2023-11-09</name>
+                <description>Xichang Satellite Launch Center | LC-2&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;Success&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;COSPAR : &lt;/b&gt;2023-172&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;AZYMUT : &lt;/b&gt;99.0&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;ORBITAL PLAN : &lt;/b&gt;29.6 (&lt;b&gt;/!\ Beta test&lt;/b&gt;)&lt;/div&gt;&lt;i&gt;&lt;u&gt;REF.ID :&lt;/u&gt; &lt;/i&gt;1984&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://storage.googleapis.com/nextspaceflight/media/rockets/8956.jpg&quot; width=&quot;400&quot;/&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;ROCKET :&lt;/b&gt;&lt;br&gt;CZ 3B&lt;br&gt;&lt;br&gt;&lt;b&gt;AGENCE :&lt;/b&gt;&lt;br&gt;CASC&lt;br&gt;&lt;br&gt;&lt;b&gt;MISSION :&lt;/b&gt;&lt;br&gt;Unknown Payload&lt;br&gt;&lt;br&gt;58253 / 2023-172A / Zhongxing 6E (Chinasat 6E)&lt;br&gt;&lt;br&gt;58254 / 2023-172B / CZ 3B fourth stage&lt;br&gt;&lt;br&gt;&lt;b&gt;PREVISION METEO (vent à 30km):&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://www.ventusky.com/?p=28.2;102.0;3&amp;l=wind-10hpa&amp;t=20231109/0900&quot;&gt;Ventusky&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;MAPS :&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://satellites.pro/France_map#28.246,102.028,14&quot;&gt;Apple&lt;/a&gt;   |   &lt;a href=&quot;https://www.bing.com/maps/embed?h=650&amp;w=1300&amp;cp=28.246~102.028&amp;lvl=14&amp;typ=d&amp;sty=h&amp;src=SHELL&amp;FORM=MBEDV8&quot;&gt;Bing&lt;/a&gt;   |   &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=28.246%2C102.028&quot;&gt;Yandex&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SOURCES :&lt;/b&gt;&lt;br&gt;https://nextspaceflight.com/launches/details/1984&lt;br&gt;&lt;br&gt;</description>
+                <Placemark id="5">
+                    <name>Long March 3B/E | Unknown Payload</name>
+                    <Point id="4">
+                        <coordinates>102.028,28.246,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="7">
+                    <name>CHN_A3447-23</name>
+                    <description>&lt;p&gt;&lt;font face=&quot;Consolas&quot;&gt;&lt;b&gt;Type :&lt;/b&gt; NOTAM&lt;br/&gt;&lt;b&gt;Area :&lt;/b&gt; CHN ()&lt;br/&gt;&lt;b&gt;Ref. :&lt;/b&gt; A3447-23&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Creat:&lt;/b&gt; 2023-11-02 08:45:00&lt;br/&gt;&lt;b&gt;From  :&lt;/b&gt; 2023-11-09 11:13:00&lt;br/&gt;&lt;b&gt;Until:&lt;/b&gt; 2023-11-09 13:28:00&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Msg. :&lt;/b&gt; A TEMPORARY DANGER AREA ESTABLISHED CENTERED AT N2815E10202  WITH RADIUS OF 10KM. VERTICAL LIMITS:SFC-UNL. SFC - UNL&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Maps : &lt;/b&gt;&lt;a href=&quot;https://satellites.pro/France_map#28.25427843919405,102.03333333333335,14&quot;&gt;Apple&lt;/a&gt; - &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=28.25427843919405%2C102.03333333333335&quot;&gt;Yandex&lt;/a&gt; - &lt;a href=&quot;https://www.ventusky.com/?p=28.3;102.0;3&amp;l=wind-10hpa&amp;t=20231109/1100&quot;&gt;Ventusky&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;</description>
+                    <styleUrl>#10</styleUrl>
+                    <Polygon id="6">
+                        <outerBoundaryIs>
+                            <LinearRing id="8">
+                                <coordinates>102.03333333333333,28.34023297824047,0.0 102.06484790069771,28.33581305674472,0.0 102.09327041432798,28.322986964198687,0.0 102.11581424970164,28.30301287401403,0.0 102.13027268020468,28.277849278998882,0.0 102.13523486950642,28.249962020367956,0.0 102.13022225916848,28.22208190138465,0.0 102.11573266667217,28.196936998227407,0.0 102.09318883120068,28.17698601248524,0.0 102.06479747950323,28.164178611854535,0.0 102.03333333333333,28.159765830041913,0.0 102.00186918716344,28.164178611854535,0.0 101.97347783546599,28.17698601248524,0.0 101.95093399999449,28.196936998227407,0.0 101.93644440749819,28.22208190138465,0.0 101.93143179716024,28.249962020367956,0.0 101.93639398646198,28.277849278998882,0.0 101.95085241696502,28.30301287401403,0.0 101.97339625233869,28.322986964198687,0.0 102.00181876596895,28.33581305674472,0.0 102.03333333333333,28.34023297824047,0.0 102.03333333333333,28.34023297824047,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </Placemark>
+                <Placemark id="14">
+                    <name>CHN_A3448-23</name>
+                    <description>&lt;p&gt;&lt;font face=&quot;Consolas&quot;&gt;&lt;b&gt;Type :&lt;/b&gt; NOTAM&lt;br/&gt;&lt;b&gt;Area :&lt;/b&gt; CHN ()&lt;br/&gt;&lt;b&gt;Ref. :&lt;/b&gt; A3448-23&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Creat:&lt;/b&gt; 2023-11-02 08:46:00&lt;br/&gt;&lt;b&gt;From  :&lt;/b&gt; 2023-11-09 11:15:00&lt;br/&gt;&lt;b&gt;Until:&lt;/b&gt; 2023-11-09 13:32:00&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Msg. :&lt;/b&gt; A TEMPORARY DANGER AREA ESTABLISHED BOUNDED  BY:N2722E10837-N2732E10743-N2715E10739-N2706E10834 BACK TO START.  VERTICAL LIMITS:SFC-UNL. SFC - UNL&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Maps : &lt;/b&gt;&lt;a href=&quot;https://satellites.pro/France_map#27.3125,108.1375,14&quot;&gt;Apple&lt;/a&gt; - &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=27.3125%2C108.1375&quot;&gt;Yandex&lt;/a&gt; - &lt;a href=&quot;https://www.ventusky.com/?p=27.3;108.1;3&amp;l=wind-10hpa&amp;t=20231109/1100&quot;&gt;Ventusky&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;</description>
+                    <styleUrl>#17</styleUrl>
+                    <Polygon id="13">
+                        <outerBoundaryIs>
+                            <LinearRing id="15">
+                                <coordinates>108.61666666666666,27.366666666666667,0.0 107.71666666666667,27.533333333333335,0.0 107.65,27.25,0.0 108.56666666666666,27.1,0.0 108.61666666666666,27.366666666666667,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </Placemark>
+                <Placemark id="21">
+                    <name>CHN_A3449-23</name>
+                    <description>&lt;p&gt;&lt;font face=&quot;Consolas&quot;&gt;&lt;b&gt;Type :&lt;/b&gt; NOTAM&lt;br/&gt;&lt;b&gt;Area :&lt;/b&gt; CHN ()&lt;br/&gt;&lt;b&gt;Ref. :&lt;/b&gt; A3449-23&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Creat:&lt;/b&gt; 2023-11-02 08:47:00&lt;br/&gt;&lt;b&gt;From  :&lt;/b&gt; 2023-11-09 11:16:00&lt;br/&gt;&lt;b&gt;Until:&lt;/b&gt; 2023-11-09 13:38:00&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Msg. :&lt;/b&gt; A TEMPORARY DANGER AREA ESTABLISHED BOUNDED  BY:N2609E11430-N2615E11400-N2558E11355-N2552E11425 BACK TO START.  VERTICAL LIMITS:SFC-UNL. SFC - UNL&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Maps : &lt;/b&gt;&lt;a href=&quot;https://satellites.pro/France_map#26.05833333333333,114.20833333333334,14&quot;&gt;Apple&lt;/a&gt; - &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=26.05833333333333%2C114.20833333333334&quot;&gt;Yandex&lt;/a&gt; - &lt;a href=&quot;https://www.ventusky.com/?p=26.1;114.2;3&amp;l=wind-10hpa&amp;t=20231109/1100&quot;&gt;Ventusky&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;</description>
+                    <styleUrl>#24</styleUrl>
+                    <Polygon id="20">
+                        <outerBoundaryIs>
+                            <LinearRing id="22">
+                                <coordinates>114.5,26.15,0.0 114.0,26.25,0.0 113.91666666666667,25.966666666666665,0.0 114.41666666666667,25.866666666666667,0.0 114.5,26.15,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </Placemark>
+                <Placemark id="28">
+                    <name>JPN_P5868-23</name>
+                    <description>&lt;p&gt;&lt;font face=&quot;Consolas&quot;&gt;&lt;b&gt;Type :&lt;/b&gt; NOTAM&lt;br/&gt;&lt;b&gt;Area :&lt;/b&gt; JPN ()&lt;br/&gt;&lt;b&gt;Ref. :&lt;/b&gt; P5868-23&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Creat:&lt;/b&gt; 2023-10-13 08:57:00&lt;br/&gt;&lt;b&gt;From  :&lt;/b&gt; 2023-11-09 07:00:00&lt;br/&gt;&lt;b&gt;Until:&lt;/b&gt; 2023-11-12 12:00:00&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Msg. :&lt;/b&gt; DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU NOV 09-NOV 12,2023. DETAILS ARE AS FOLLOWS:  PERIOD: NOV 09, 2023 0700 - NOV 12, 2023 1200(UTC) DLY 0700 - 1200(UTC).  AREA: 2206N12809E-2224N12714E-2209N12708E-2151N12803E FOUR POINTS CONNECTION RANGE.  VERTICAL ALTITUDE: SFC-UNL  RMK/ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY. SFC - UNL, 0700/1200&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Maps : &lt;/b&gt;&lt;a href=&quot;https://satellites.pro/France_map#22.125,127.64166666666667,14&quot;&gt;Apple&lt;/a&gt; - &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=22.125%2C127.64166666666667&quot;&gt;Yandex&lt;/a&gt; - &lt;a href=&quot;https://www.ventusky.com/?p=22.1;127.6;3&amp;l=wind-10hpa&amp;t=20231109/0700&quot;&gt;Ventusky&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;</description>
+                    <styleUrl>#31</styleUrl>
+                    <Polygon id="27">
+                        <outerBoundaryIs>
+                            <LinearRing id="29">
+                                <coordinates>128.15,22.1,0.0 127.23333333333333,22.4,0.0 127.13333333333334,22.15,0.0 128.05,21.85,0.0 128.15,22.1,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </Placemark>
+                <Placemark id="35">
+                    <name>Azymuth_lch</name>
+                    <styleUrl>#36</styleUrl>
+                    <LineString id="34">
+                        <coordinates>102.028,28.246,0.0 102.03333333333335,28.25427843919405,0.0</coordinates>
+                    </LineString>
+                </Placemark>
+                <Placemark id="39">
+                    <name>Azymuth_lch</name>
+                    <styleUrl>#40</styleUrl>
+                    <LineString id="38">
+                        <coordinates>102.03333333333335,28.25427843919405,0.0 108.1375,27.3125,0.0</coordinates>
+                    </LineString>
+                </Placemark>
+                <Placemark id="43">
+                    <name>Azymuth_lch</name>
+                    <styleUrl>#44</styleUrl>
+                    <LineString id="42">
+                        <coordinates>108.1375,27.3125,0.0 114.20833333333334,26.05833333333333,0.0</coordinates>
+                    </LineString>
+                </Placemark>
+                <Placemark id="47">
+                    <name>Azymuth_lch</name>
+                    <styleUrl>#48</styleUrl>
+                    <LineString id="46">
+                        <coordinates>114.20833333333334,26.05833333333333,0.0 127.64166666666667,22.125,0.0</coordinates>
+                    </LineString>
+                </Placemark>
+            </Folder>
+        </Folder>
+    </Document>
+</kml>
