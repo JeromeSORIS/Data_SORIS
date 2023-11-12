@@ -25,7 +25,7 @@ Note: Best interface with kml and Google Earth.
 
 
 ## Use
-- Download the kml (or geojson) file.
+- Download the 'Situation SOL' kml (or geojson) file.
 - Open it in a GIS software (Google Earth for instance)
 - Legend :
   - White = Navigation warning
