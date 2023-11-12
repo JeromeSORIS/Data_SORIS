@@ -14,6 +14,13 @@ More preciselly, SORIS is an automatic OSINT collection of :
 
 Data from SORIS are available in the 'geojson' and the 'kml' file (daily update).
 
+***Update 12NOV23:***
+
+It's also a collection of previous NOTAM avaiable in the 'Activite SOL - CHN.kml' for a better assessment of a future launch :
+
+![alt text](https://github.com/JeromeSORIS/Data_SORIS/blob/main/Sample_CHINA_2023-11-12.png)
+
+
 Note: Best interface with kml and Google Earth.
 
 
