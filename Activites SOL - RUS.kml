@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document id="1">
+        <name>Activites SOL - RUS</name>
+        <atom:author>jeromed.soris [-at-] proton.me</atom:author>
+        <description>&lt;a href=&quot;http://jeromed.soris.free.fr/html/autoreport.php&quot;&gt;Autoreport&lt;/a&gt;</description>
+        <Folder id="2">
+            <name>Soyuz-2 1B</name>
+            <Folder id="3">
+                <Style id="10">
+                    <LineStyle id="11">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                        <width>4</width>
+                    </LineStyle>
+                    <PolyStyle id="12">
+                        <colorMode>normal</colorMode>
+                        <fill>0</fill>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <Style id="17">
+                    <LineStyle id="18">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                        <width>4</width>
+                    </LineStyle>
+                    <PolyStyle id="19">
+                        <colorMode>normal</colorMode>
+                        <fill>0</fill>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <Style id="22">
+                    <LineStyle id="23">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                    </LineStyle>
+                </Style>
+                <Style id="26">
+                    <LineStyle id="27">
+                        <color>80ffff00</color>
+                        <colorMode>normal</colorMode>
+                    </LineStyle>
+                </Style>
+                <name>2023-11-25</name>
+                <description> | Plesetsk Cosmodrome&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;Success&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;COSPAR : &lt;/b&gt;2023-182&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;AZYMUT : &lt;/b&gt;340.5&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;b&gt;ORBITAL PLAN : &lt;/b&gt;None&lt;/div&gt;&lt;i&gt;&lt;u&gt;REF.ID :&lt;/u&gt; &lt;/i&gt;7362&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://storage.googleapis.com/nextspaceflight/media/rockets/22082019-233-2.jpg&quot; width=&quot;400&quot;/&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;ROCKET :&lt;/b&gt;&lt;br&gt;Soyuz-2 1B&lt;br&gt;&lt;br&gt;&lt;b&gt;AGENCE :&lt;/b&gt;&lt;br&gt;VKS RF&lt;br&gt;&lt;br&gt;&lt;b&gt;MISSION :&lt;/b&gt;&lt;br&gt;Bars-M n°5 (?)&lt;br&gt;&lt;br&gt;58435 / 2023-182A / Cosmos 2572&lt;br&gt;&lt;br&gt;58436 / 2023-182B / Soyuz third stage&lt;br&gt;&lt;br&gt;&lt;b&gt;PREVISION METEO (vent à 30km):&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://www.ventusky.com/?p=62.9;40.6;3&amp;l=wind-10hpa&amp;t=20231125/1800&quot;&gt;Ventusky&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;MAPS :&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://satellites.pro/France_map#62.919,40.647,14&quot;&gt;Apple&lt;/a&gt;   |   &lt;a href=&quot;https://www.bing.com/maps/embed?h=650&amp;w=1300&amp;cp=62.919~40.647&amp;lvl=14&amp;typ=d&amp;sty=h&amp;src=SHELL&amp;FORM=MBEDV8&quot;&gt;Bing&lt;/a&gt;   |   &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=62.919%2C40.647&quot;&gt;Yandex&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SOURCES :&lt;/b&gt;&lt;br&gt;https://nextspaceflight.com/launches/details/7362&lt;br&gt;&lt;br&gt;</description>
+                <Placemark id="5">
+                    <name>Soyuz 2.1a | Bars-M n°5 (?)</name>
+                    <Point id="4">
+                        <coordinates>40.647,62.919,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="7">
+                    <name>NAV-XIX_156-23</name>
+                    <description>&lt;p&gt;&lt;font face=&quot;Consolas&quot;&gt;&lt;b&gt;Type :&lt;/b&gt; NAVWARNING&lt;br/&gt;&lt;b&gt;Area :&lt;/b&gt; NAV-XIX&lt;br/&gt;&lt;b&gt;Ref. :&lt;/b&gt; 156-23&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Creat:&lt;/b&gt; 2023-11-16 16:36:18.988810&lt;br/&gt;&lt;b&gt;From  :&lt;/b&gt; 2023-11-16 16:36:18.987169&lt;br/&gt;&lt;b&gt;Until:&lt;/b&gt; 2023-11-27 22:30:00&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Msg. :&lt;/b&gt; NAV-XIX_156-23 156/23&lt;br/&gt;BARENTS SEA&lt;br/&gt;1.AREA TEMPORARILY DANGEROUS TO NAVIGATION&lt;br/&gt;DUE TO ROCKET CARRIER ELEMENTS FALL&lt;br/&gt;23 TO 27 NOV DAILY FROM 2000 TO 2230 UTC&lt;br/&gt;&lt;br/&gt;A. 76-30.0N 022-00.0E&lt;br/&gt;B. 75-20.0N 024-40.0E&lt;br/&gt;C. 74-50.0N 021-40.0E&lt;br/&gt;D. 75-50.0N 018-40.0E&lt;br/&gt;E. 76-30.0N 022-00.0E&lt;br/&gt;&lt;br/&gt;2. CANCEL THIS MESSAGE 272230 NOV 23&lt;br/&gt;&lt;br/&gt;Number:155/23 Date:160630 UTC nov 23&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Maps : &lt;/b&gt;&lt;a href=&quot;https://satellites.pro/France_map#75.91666666666666,21.833333333333332,14&quot;&gt;Apple&lt;/a&gt; - &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=75.91666666666666%2C21.833333333333332&quot;&gt;Yandex&lt;/a&gt; - &lt;a href=&quot;https://www.ventusky.com/?p=75.9;21.8;3&amp;l=wind-10hpa&amp;t=20231116/1600&quot;&gt;Ventusky&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;</description>
+                    <styleUrl>#10</styleUrl>
+                    <Polygon id="6">
+                        <outerBoundaryIs>
+                            <LinearRing id="8">
+                                <coordinates>22.0,76.5,0.0 24.666666666666668,75.33333333333333,0.0 21.666666666666668,74.83333333333333,0.0 18.666666666666668,75.83333333333333,0.0 22.0,76.5,0.0 22.0,76.5,0.0 22.0,76.5,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </Placemark>
+                <Placemark id="14">
+                    <name>NOR_A6781-23</name>
+                    <description>&lt;p&gt;&lt;font face=&quot;Consolas&quot;&gt;&lt;b&gt;Type :&lt;/b&gt; NOTAM&lt;br/&gt;&lt;b&gt;Area :&lt;/b&gt; NOR ()&lt;br/&gt;&lt;b&gt;Ref. :&lt;/b&gt; A6781-23&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Creat:&lt;/b&gt; 2023-11-20 15:33:00&lt;br/&gt;&lt;b&gt;From  :&lt;/b&gt; 2023-11-28 20:00:00&lt;br/&gt;&lt;b&gt;Until:&lt;/b&gt; 2023-11-30 22:30:00&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Msg. :&lt;/b&gt; TEMPO DANGER AREA  'RUS SPACE LAUNCH AREA NOV23'  ACTIVATED. PSN 763000N 0220000E - 752000N 0244000E - 745000N 0214000E - 755000N 0184000E - (763000N 0220000E). IMPACT AREA FOR RUSSIAN MISSILES. SIMILAR ACTIVITIES ARE ALSO PLANNED WITHIN THE UNALLOCATED INTERNATIONAL AIRSPACE IN PSN 705600N 0320500E - 701000N 0320500E - 700928N 0320152E - 701500N 0315000E - 703007N 0315000E - 703622N 0314318E - (705600N 0320500E). GND - UNL, DAILY 2000-2230&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Maps : &lt;/b&gt;&lt;a href=&quot;https://satellites.pro/France_map#72.71243055555556,27.722453703703703,14&quot;&gt;Apple&lt;/a&gt; - &lt;a href=&quot;https://yandex.com/maps/?l=sat%2Cskl&amp;text=72.71243055555556%2C27.722453703703703&quot;&gt;Yandex&lt;/a&gt; - &lt;a href=&quot;https://www.ventusky.com/?p=72.7;27.7;3&amp;l=wind-10hpa&amp;t=20231128/2000&quot;&gt;Ventusky&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;</description>
+                    <styleUrl>#17</styleUrl>
+                    <Polygon id="13">
+                        <outerBoundaryIs>
+                            <LinearRing id="15">
+                                <coordinates>22.0,76.5,0.0 24.666666666666668,75.33333333333333,0.0 21.666666666666668,74.83333333333333,0.0 18.666666666666668,75.83333333333333,0.0 22.0,76.5,0.0 32.083333333333336,70.93333333333334,0.0 32.083333333333336,70.16666666666667,0.0 32.03111111111111,70.15777777777778,0.0 31.833333333333332,70.25,0.0 31.833333333333332,70.50194444444445,0.0 31.721666666666664,70.6061111111111,0.0 32.083333333333336,70.93333333333334,0.0 22.0,76.5,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </Placemark>
+                <Placemark id="21">
+                    <name>Azymuth_lch</name>
+                    <styleUrl>#22</styleUrl>
+                    <LineString id="20">
+                        <coordinates>21.833333333333332,75.91666666666666,0.0 27.722453703703703,72.71243055555556,0.0</coordinates>
+                    </LineString>
+                </Placemark>
+                <Placemark id="25">
+                    <name>Azymuth_lch</name>
+                    <styleUrl>#26</styleUrl>
+                    <LineString id="24">
+                        <coordinates>27.722453703703703,72.71243055555556,0.0 40.647,62.919,0.0</coordinates>
+                    </LineString>
+                </Placemark>
+            </Folder>
+        </Folder>
+    </Document>
+</kml>
